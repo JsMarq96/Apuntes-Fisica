@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "fcb272242544ea35",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a578feea98e24df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "T - 7 ondas energia.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d06c86c60b6e0a35",
+    "type": "split",
+    "children": [
+      {
+        "id": "a92bdc06ff87683a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "661acc560802dd30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "52d29c3decb218a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1c0702dbf91faa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f2d93457d7a1ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c48e54dee0cb91bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "T - 7 ondas energia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9a578feea98e24df",
+  "lastOpenFiles": [
+    "T - 7 ondas energia.md",
+    "T - 6 Ondas.md",
+    "T - 2 Energia y trabajo.md",
+    "T - 5 Driven osciladores.md",
+    "T - 4 Osciladores amortiguados.md",
+    "T - 1.md",
+    "T - 8 Interferencias.md",
+    "Comunes.md"
+  ]
+}
