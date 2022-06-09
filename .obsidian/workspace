@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "T - 7 ondas energia.md",
+            "file": "Problems/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 131
   },
   "right": {
     "id": "b1c0702dbf91faa1",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T - 7 ondas energia.md",
+                "file": "Problems/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,15 @@
   },
   "active": "9a578feea98e24df",
   "lastOpenFiles": [
+    "Problems/Untitled.md",
+    "T - 10 Conductores y capacitancia.md",
+    "T - 9 Electrostatica.md",
     "T - 7 ondas energia.md",
     "T - 6 Ondas.md",
+    "T - 8 Interferencias.md",
     "T - 2 Energia y trabajo.md",
     "T - 5 Driven osciladores.md",
     "T - 4 Osciladores amortiguados.md",
-    "T - 1.md",
-    "T - 8 Interferencias.md",
-    "Comunes.md"
+    "T - 1.md"
   ]
 }
