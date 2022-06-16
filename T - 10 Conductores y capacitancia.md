@@ -17,4 +17,46 @@ En el que $\overline{r}$ es un vector unitario que apunta a el punto P en el que
 
 Podemos pensar en las distribuciones de cargas continuas como un gran numero de cargas puntuales muy chiquitas.
 
-## Carga y campo en la superficie de los conductores
+## Distrubuciones Continuas de Cargas
+### Carga lineal (1D)
+- Densidad Lineal: o carga por por unidad de longitud
+$$ \lambda = \frac{\partial q}{\partial l}\ (general)$$
+$$ \lambda = \frac{Q}{L} \ (homogeneo) $$
+- Campo electrico
+$$ \overrightarrow{E} = \int_L K \frac{\lambda}{r^2}\overline{r} \ dl $$
+$$ \partial \overrightarrow{E} = K \frac{\lambda \ \partial l}{r^2} \overline{r} $$
+- Potencial electrica (voltage)
+$$ V = \int_L K \frac{\lambda}{r} \partial l $$
+$$ \partial V = K \frac{\lambda \ \partial l}{r} $$
+### Cargas de Superficie (2D)
+- Densidad de la superficie
+- Campo electrico
+- Potencia Electrica
+
+
+## Conductores
+Un material en el que las cargas pueden moverse sin porblemas
+
+- Conductores en estado de No equlibrio:
+	Las cargas se estan moviendo continuamente hasta que el estado de equilibrio se alcanza (es decir, la diferencia entre las dos cargas es 0??)
+- Conductores en une stado de esquilibrio:
+	- Dentro del conductor: No hay cargas electricas libres (wot??); el campo ele ctrico siempre es 0, porque las cargas se repelen a la superficie; y el potencial electrico es igual en todas las partes del conductor (voltage igual en todos los ptos).
+	- En al superficie: Las cargas electricvas libres estas distribuidas a lo largo de la superficie, hacienod que dentro se quede el campo electrico como E = 0; y el campo electrico es perpendicular a la superficie
+
+## Condensadores
+Almacenes de carga, en el que la cantidad depende de la geometria (forma, tamano...): mayor area de superficie = mayor carga.
+Nota: el voltage (potencial electrico) es proporcional con Q (la carga electrica almacenada)
+
+Compuesto por 2 donductores eparados por una distancia pequena, cuando se aplica cierto voltage, se carga cada material con Q+ y Q- mediante la induccion.
+
+#### Capacitancia
+La cantidad de carga almacenada depende de la diferencia de voltaje aplicada entre los dos conductores; y esto se llama capacitancia (C), y se mide en Faradays (F)
+$$ C = \frac{|Q|}{\Delta V} $$
+Esto depende del tamano y forma de los conductores, la separacion entre ellos; y el medio o material entre los conductores.
+
+### Carga
+Cuando se carga un condesador o se descarga, se produce un trabajo:
+La energia potencial electrostatica de un condesador es: 
+$$ U = \frac{1}{2}C V^2\ = \ \frac{1}{2} Q V $$
+## Materiales Dielectricos
+materiales no conductores, pero que se polarizan en la presencia de un campo electrico

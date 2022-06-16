@@ -25,6 +25,9 @@ Como podemos ver la intensidad de las cargas y cuanto efecto tienen en los cuerp
 Se pueden dibujar las direcciones y magnitudes de un campo electrico mediante lineas entre dos puntos con cargas.
 Si el pto tiene carga positiva, las lineas se elejaran de la carga; y si es negativo se acercaran
 
+Formula del Campo electrico
+$$ \overrightarrow{E} = k \frac{Q}{r^2} \overline{r} $$
+En esl que Q es la carga actual del objeto
 
 ## Energia Potencial Electrostatica
 Cuando pods objetos se repelen, tiene una mayor energia potencial a menor sea la distancia entre ellos (es decir, mas cerca estan, ams fuerza hay en su separacion).
